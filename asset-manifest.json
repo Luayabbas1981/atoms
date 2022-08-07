@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atoms/static/css/main.89cfc467.css",
+    "main.js": "/atoms/static/js/main.38241ab7.js",
+    "index.html": "/atoms/index.html",
+    "main.89cfc467.css.map": "/atoms/static/css/main.89cfc467.css.map",
+    "main.38241ab7.js.map": "/atoms/static/js/main.38241ab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89cfc467.css",
+    "static/js/main.38241ab7.js"
+  ]
+}
